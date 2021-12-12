@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gymworkouts.github.io/workout-today/sitemapx.xml
